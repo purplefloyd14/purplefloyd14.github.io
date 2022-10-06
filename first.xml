@@ -1,6 +1,19 @@
-<note>
-<to>Tove</to>
-<from>Jani</from>
-<heading>Reminder</heading>
-<body>Don't forget me this weekend!</body>
-</note>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+  <channel>
+    <title>The Name of Your Feed</title>
+    <link>http://www. put_website_url_here.com</link>
+    <description>Feed description</description>
+    <language>en-us (or other language)</language>
+    <item>
+      <title>Title of First Item</title>
+      <link>http://www. put_website_url_here.com</link>
+      <description>The item 1 content.</description>
+    </item>
+    <item>
+      <title>Title of Second Item</title>
+      <link>http://www. put_website_url_here.com</link>
+      <description>The item 2 content.</description>
+    </item>
+   </channel>
+</rss>
