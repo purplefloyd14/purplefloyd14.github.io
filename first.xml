@@ -19,7 +19,7 @@
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.supremecourt.gov/images/1998-134-4_new.jpg"/>
-  </itunes:owner>
+  <itunes:owner>
     <itunes:name>Brad Neal</itunes:name>
     <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
   </itunes:owner>
