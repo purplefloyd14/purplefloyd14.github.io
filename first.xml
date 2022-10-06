@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
   <title>Brad's Test-Podcast</title>
   <link>https://www.google.com</link>
@@ -19,8 +19,9 @@
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.supremecourt.gov/images/1998-134-4_new.jpg"/>
-  <itunes:name>Brad Neal</itunes:name>
-  <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
+  </itunes:owner>
+    <itunes:name>Brad Neal</itunes:name>
+    <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="Government"/>
   <itunes:category text="History"/>
