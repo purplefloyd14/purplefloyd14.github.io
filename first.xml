@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="0.91">
-  <channel>
-    <title>The Name of Your Feed</title>
-    <link>http://www. put_website_url_here.com</link>
-    <description>Feed description</description>
-    <language>en-us (or other language)</language>
-    <item>
-      <title>Title of First Item</title>
-      <link>www.something.com</link>
-      <description>The item 1 content.</description>
-    </item>
-    <item>
-      <title>Title of Second Item</title>
-      <link>http://www. put_website_url_here.com</link>
-      <description>The item 2 content.</description>
-    </item>
-   </channel>
+<rss version="2.0">
+<channel>
+  <title>Brad's Test-Podcast</title>
+  <link>https://www.google.com</link>
+  <description>Here is the description for my site: https://wwww.reddit.com</description>
+  <language>en-us</language>
+  <copyright>No copyright!</copyright>
+  <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
+  <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
+<managingEditor>you@domain.com</managingEditor>
+<webMaster>webmaster@domain.com</webMaster>
+  <item>
+    <title>Sackett v. EPA</title>
+    <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-454</link>
+    <description>This is sackett v epi. check out my link: https://www.facebook.com </description>
+    <author>Author is Brad neal</author>
+    <pubDate>Tue, 30 Nov 2004 13:43:02 CST</pubDate>
+    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-454.mp3" length="51886986" type="audio/mpeg"/>
+    <guid isPermaLink="false">id_01</guid>
+  </item>
+  <item>
+    <title>Delaware v. Pennsylvania and Wisconsin</title>
+    <link>https://www.supremecourt.gov/oral_arguments/audio/2022/145-Orig</link>
+    <description>Docket Number: 145-Orig&lt;br/&gt;Date Argued: 10/03/22
+    </description>
+    <author>You@domain.com</author>
+    <pubDate>Tue, 30 Nov 2004 13:50:02 CST</pubDate>
+    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="32963466" type="audio/mpeg"/>
+    <guid isPermaLink="false">id_02</guid>
+  </item>
+</channel>
 </rss>
