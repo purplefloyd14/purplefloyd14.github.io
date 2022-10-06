@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>Brad's Test-Podcast</title>
   <link>https://www.google.com</link>
@@ -14,11 +13,11 @@
   <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
   <itunes:type>episodic</itunes:type>
   <itunes:summary>Every Oral Argument since 2010. Provided unedited as a public good. Free-riders welcome. If you'd like to contribute you may do so here: <![CDATA[
-  <a href="https://www.patreon.com/purplefloyd ">Apple</a>
+  <a href="https://www.patreon.com/purplefloyd">Apple</a>
 ]]></itunes:summary>
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.supremecourt.gov/images/1998-134-4_new.jpg"/>
+  <itunes:image href="https://www.supremecourt.gov/images/1995-136-3.jpg"/>
   <itunes:owner>
     <itunes:name>Brad Neal</itunes:name>
     <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
@@ -29,6 +28,9 @@
 <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
 <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
   <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>2</itunes:season>
     <title>Sackett v. EPA</title>
     <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-454</link>
     <description>This is sackett v epi. check out my link: https://www.facebook.com </description>
