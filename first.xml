@@ -5,6 +5,11 @@
   <description>
     Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to contribute you may do so here: https://www.patreon.com/purplefloyd
   </description>
+  <content:encoded>
+    <![CDATA[
+    <p>Every Oral Argument since 2010. Provided unedited as a public good. Buy the law student behind this a beer: https://www.patreon.com/purplefloyd</p>
+    ]]>
+  </content:encoded>
   <language>en-us</language>
   <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
   <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
@@ -40,22 +45,16 @@
     <description>
       <![CDATA[
       <p>
-        <ul> Delaware v. Testing Here
-          <li> Docket Number: 145-Orig </li>
-          <li> Date Argued: 10/03/22 </li>
-        </ul>
+         Delaware v. Testing Here | 10/03/22 | Docket #: 145-Orig
       </p>
-        <p>---</p>
-      <p> Support the law student behind this project: </p>
-      <p>https://www.patreon.com/purplefloyd</p>
       ]]>
     </description>
     <content:encoded>
       <![CDATA[
-      <p>
-        <ul> Delaware v. Pennsylvania and Wisconsin
-          <li> Docket Number: 145-Orig </li>
-          <li> Date Argued: 10/03/22 </li>
+      <p> Delaware v. Pennsylvania and Wisconsin
+        <ul> 
+          <li> Docket #: 145-Orig </li>
+          <li> Date: 10/03/22 </li>
         </ul>
       </p>
         <p>---</p>
