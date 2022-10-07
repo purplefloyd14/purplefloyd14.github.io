@@ -3,7 +3,9 @@
   <title>The Supreme Court: Oral Arguments</title>
   <link>https://purplefloyd14.github.io/index.html</link>
   <description>
-    Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to contribute you may do so here: https://www.patreon.com/purplefloyd
+    <![CDATA[
+    <p>Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to support this project you may do so here: https://www.patreon.com/purplefloyd</p>
+    ]]>
   </description>
   <content:encoded>
     <![CDATA[
@@ -52,9 +54,9 @@
     <content:encoded>
       <![CDATA[
       <p> Delaware v. Pennsylvania and Wisconsin
-        <ul> 
-          <li> Docket #: 145-Orig </li>
+        <ul>
           <li> Date: 10/03/22 </li>
+          <li> Docket #: 145-Orig </li>
         </ul>
       </p>
         <p>---</p>
