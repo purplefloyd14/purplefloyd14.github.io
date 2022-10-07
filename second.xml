@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
   <title>The Supreme Court: Oral Arguments</title>
   <link>https://purplefloyd14.github.io/index.html</link>
   <description>
-    <![CDATA[
-    <p> 1 A public good: every Supreme Court Oral Argument since 2010. </p>
-    <p> Making the Highest Court more accessible for a modern audience.  </p>
-    <p> --- </p>
-    <p>If you'd like to support this project you can do so here: </p>
-  </br>
-    <p> <a href="https://www.patreon.com/purplefloyd">https://www.patreon.com/purplefloyd</a> </p>
-    ]]>
+    
+    &lt;p&gt; 1 A public good: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
+    &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
+    &lt;p&gt; --- &lt;/p&gt;
+    &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
+  &lt;/br&gt;
+    &lt;p&gt; &lt;a href="https://www.patreon.com/purplefloyd"&gt;https://www.patreon.com/purplefloyd&lt;/a&gt; &lt;/p&gt;
+    
   </description>
-  <content:encoded>
-    <![CDATA[
-    <p> 2 A public GOOD: every Supreme Court Oral Argument since 2010. </p>
-    <p> Making the Highest Court more accessible for a modern audience.  </p>
-  </br>
-    <p> --- </p>
-    <p>If you'd like to support this project you can do so here: </p>
-    <p> <a href='https://www.patreon.com/purplefloyd'/> </p>
-    ]]>
-  </content:encoded>
+  <ns0:encoded>
+    
+    &lt;p&gt; 2 A public GOOD: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
+    &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
+  &lt;/br&gt;
+    &lt;p&gt; --- &lt;/p&gt;
+    &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
+    &lt;p&gt; &lt;a href='https://www.patreon.com/purplefloyd'/&gt; &lt;/p&gt;
+    
+  </ns0:encoded>
   <language>en-us</language>
-  <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+  <copyright>Unprotected Under 17 U.S. Code &#167; 105</copyright>
   <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
   <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
-  <itunes:type>episodic</itunes:type>
-  <itunes:summary>
-3 A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support this project you can do so here: https://www.patreon.com/purplefloyd
-  </itunes:summary>
-  <content:encoded>
-    <![CDATA[
-    <p> 4 A public GOOD: every Supreme Court Oral Argument since 2010. </p>
-    <p> Making the Highest Court more accessible for a modern audience.  </p>
-  </br>
-    <p> --- </p>
-    <p>If you'd like to support this project you can do so here: </p>
-    <p> <a href='https://www.patreon.com/purplefloyd'/> </p>
-    ]]>
-  </content:encoded>
-  <itunes:author>Brad Neal</itunes:author>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg"/>
-  <itunes:owner>
-    <itunes:name>Brad Neal</itunes:name>
-    <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:category text="Society &amp; Culture" />
+  <ns1:type>episodic</ns1:type>
+  <ns1:summary>
+3 A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the creator of this project you can do so here: https://www.patreon.com/purplefloyd
+  </ns1:summary>
+  <ns0:encoded>
+    
+    &lt;p&gt; 4 A public GOOD: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
+    &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
+  &lt;/br&gt;
+    &lt;p&gt; --- &lt;/p&gt;
+    &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
+    &lt;p&gt; &lt;a href='https://www.patreon.com/purplefloyd'/&gt; &lt;/p&gt;
+    
+  </ns0:encoded>
+  <ns1:author>Brad Neal</ns1:author>
+  <ns1:explicit>no</ns1:explicit>
+  <ns1:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg" />
+  <ns1:owner>
+    <ns1:name>Brad Neal</ns1:name>
+    <ns1:email>scotus.oral.args.podcast@gmail.com</ns1:email>
+  </ns1:owner>
+  <ns1:category text="Society &amp; Culture" />
 <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
 <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
   <item>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:episode>4</itunes:episode>
-    <itunes:season>2</itunes:season>
+    <ns1:episodeType>full</ns1:episodeType>
+    <ns1:episode>4</ns1:episode>
+    <ns1:season>2</ns1:season>
     <title>Sackett v. EPA</title>
     <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-454</link>
     <description>This is sackett v epi. check out my link: https://www.facebook.com </description>
     <author>Author is Brad neal</author>
     <pubDate>Tue, 30 Nov 2004 13:43:02 CST</pubDate>
-    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-454.mp3" length="51886986" type="audio/mpeg"/>
+    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-454.mp3" length="51886986" type="audio/mpeg" />
     <guid isPermaLink="false">id_01</guid>
   </item>
   <item>
     <title>Delaware v. Pennsylvania and Wisconsin</title>
     <link>https://www.supremecourt.gov/oral_arguments/audio/2022/145-Orig</link>
     <description>
-      <![CDATA[
-      <p>
+      
+      &lt;p&gt;
          Delaware v. Testing Here | 10/03/22 | Docket #: 145-Orig
-      </p>
-      ]]>
+      &lt;/p&gt;
+      
     </description>
-    <content:encoded>
-      <![CDATA[
-      <p> Delaware v. Testing Here | 10/03/22 | Docket #: 145-Orig
-      </p>
-        <p>---</p>
-      <p> Support the law student behind this project: </p>
-      <p>https://www.patreon.com/purplefloyd</p>
-      ]]>
-    </content:encoded>
+    <ns0:encoded>
+      
+      &lt;p&gt; Delaware v. Testing Here | 10/03/22 | Docket #: 145-Orig
+      &lt;/p&gt;
+        &lt;p&gt;---&lt;/p&gt;
+      &lt;p&gt; Support the law student behind this project: &lt;/p&gt;
+      &lt;p&gt;https://www.patreon.com/purplefloyd&lt;/p&gt;
+      
+    </ns0:encoded>
     <author>You@domain.com</author>
     <pubDate>Tue, 30 Nov 2004 13:50:02 CST</pubDate>
-    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="32963466" type="audio/mpeg"/>
+    <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="32963466" type="audio/mpeg" />
     <guid isPermaLink="false">id_02</guid>
   </item>
 </channel>
