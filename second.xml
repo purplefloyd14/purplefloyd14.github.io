@@ -29,6 +29,16 @@
   <itunes:summary>
 A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support this project you can do so here: https://www.patreon.com/purplefloyd
   </itunes:summary>
+  <content:encoded>
+    <![CDATA[
+    <p> A public GOOD: every Supreme Court Oral Argument since 2010. </p>
+    <p> Making the Highest Court more accessible for a modern audience.  </p>
+  </br>
+    <p> --- </p>
+    <p>If you'd like to support this project you can do so here: </p>
+    <p> <a href='https://www.patreon.com/purplefloyd'/> </p>
+    ]]>
+  </content:encoded>
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg"/>
