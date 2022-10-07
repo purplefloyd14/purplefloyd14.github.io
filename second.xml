@@ -25,7 +25,14 @@
   <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
   <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
   <itunes:type>episodic</itunes:type>
-  <itunes:summary>Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to contribute you may do so here: https://www.patreon.com/purplefloyd
+  <itunes:summary>
+    <![CDATA[
+    <p> A public good: every Supreme Court Oral Argument since 2010. </p>
+    <p> Making the Highest Court more accessible for a modern audience.  </p>
+    <p> --- </p>
+    <p>If you'd like to support this project you may do so here: </p>
+    <p> https://www.patreon.com/purplefloyd </p>
+    ]]>
   </itunes:summary>
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
