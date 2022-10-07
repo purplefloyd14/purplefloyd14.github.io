@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>Brad's Test-Podcast</title>
-  <link>https://www.google.com</link>
-  <description>Every Oral Argument since 2010. Provided unedited as a public good. I pay for the hosting out of pocket. Free-riders welcome. If you'd like to contribute you may do so here:
-    <![CDATA[
-    <a href="https://www.patreon.com/purplefloyd ">Apple</a>
-  ]]>
+  <title>The Supreme Court: Oral Arguments</title>
+  <link>https://purplefloyd14.github.io/index.html</link>
+  <description>
+    Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to contribute you may do so here: https://www.patreon.com/purplefloyd
   </description>
   <language>en-us</language>
   <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
   <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
   <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
   <itunes:type>episodic</itunes:type>
-  <itunes:summary>Every Oral Argument since 2010. Provided unedited as a public good. Free-riders welcome. If you'd like to contribute you may do so here: <![CDATA[
-  <a href="https://www.patreon.com/purplefloyd">Apple</a>
-]]></itunes:summary>
+  <itunes:summary>Every Oral Argument since 2010. Provided unedited as a public good. If you'd like to contribute you may do so here: https://www.patreon.com/purplefloyd
+  </itunes:summary>
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg"/>
+  <itunes:image href="https://www.supremecourt.gov/images/1995-136-3.jpg"/>
   <itunes:owner>
     <itunes:name>Brad Neal</itunes:name>
     <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:category text="Government"/>
-  <itunes:category text="History"/>
   <itunes:category text="Society &amp; Culture" />
 <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
 <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
@@ -42,7 +37,7 @@
   <item>
     <title>Delaware v. Pennsylvania and Wisconsin</title>
     <link>https://www.supremecourt.gov/oral_arguments/audio/2022/145-Orig</link>
-    <description>Docket Number: 145-Orig&lt;br/&gt;Date Argued: 10/03/22
+    <description>Docket Number: 145-Orig&#xADate Argued: 10/03/22
     </description>
     <author>You@domain.com</author>
     <pubDate>Tue, 30 Nov 2004 13:50:02 CST</pubDate>
