@@ -14,7 +14,7 @@
   </itunes:summary>
   <itunes:author>Brad Neal</itunes:author>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.supremecourt.gov/images/1995-136-3.jpg"/>
+  <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg"/>
   <itunes:owner>
     <itunes:name>Brad Neal</itunes:name>
     <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
@@ -40,31 +40,27 @@
     <description>
       <![CDATA[
       <p>
-        <ul>
-          <li> Delaware v. Pennsylvania and Wisconsin </li>
+        <ul> Delaware v. Testing Here
           <li> Docket Number: 145-Orig </li>
           <li> Date Argued: 10/03/22 </li>
         </ul>
       </p>
-      <p><br></p>
         <p>---</p>
-      <p><br></p>
-      <p> Support the law student behind this project: https://www.patreon.com/purplefloyd </p>
+      <p> Support the law student behind this project: </p>
+      <p>https://www.patreon.com/purplefloyd</p>
       ]]>
     </description>
     <content:encoded>
       <![CDATA[
       <p>
-        <ul>
-          <li> Delaware v. Pennsylvania and Wisconsin </li>
+        <ul> Delaware v. Pennsylvania and Wisconsin
           <li> Docket Number: 145-Orig </li>
           <li> Date Argued: 10/03/22 </li>
         </ul>
       </p>
-      <p><br></p>
         <p>---</p>
-      <p><br></p>
-      <p> Support the law student behind this project: https://www.patreon.com/purplefloyd </p>
+      <p> Support the law student behind this project: </p>
+      <p>https://www.patreon.com/purplefloyd</p>
       ]]>
     </content:encoded>
     <author>You@domain.com</author>
