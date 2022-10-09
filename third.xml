@@ -58,8 +58,8 @@
       <content:encoded>&lt;![CDATA[&lt;p&gt; new one v brother | 1234 | Docket #: docket1&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt; Support the law student behind this project: &lt;/p&gt;&lt;p&gt;https://www.patreon.com/purplefloyd&lt;/p&gt;]]&gt;</content:encoded>
       <author>scotus.oral.args.podcast@gmail.com</author>
       <pub_date />
-      <enclosure url="123.com" length="5" type="audio/mpeg" />
-      <guid isPermaLink="False" />
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="5" type="audio/mpeg" />
+      <guid isPermaLink="False"/>id_02</guid>
     </item>
   </channel>
 </rss>
