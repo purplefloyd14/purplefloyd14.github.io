@@ -2,45 +2,65 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Supreme Court: Oral Arguments</title>
-    <link>https://purplefloyd14.github.io/index.html</link>
-    <description>
-
-      1 A public good: every Supreme Court Oral Argument since 2010.
-      Making the Highest Court more accessible for a modern audience.
-      If you'd like to support this project you can do so here:
-      https://www.patreon.com/purplefloyd&lt;/a&gt;
-
-    </description>
-    <language>en-us</language>
-    <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
-    <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
-    <lastBuildDate>Tue, 7 Dec 2004 09:41:01 CST</lastBuildDate>
-    <itunes:type>episodic</itunes:type>
-    <itunes:summary>
-  3 A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd
-    </itunes:summary>
-    <itunes:author>Brad Neal</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd</description>
     <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg" />
+    <language>en-us</language>
+    <itunes:category>Society &amp;amp; Culture</itunes:category>
+    <itunes:category>History</itunes:category>
+    <itunes:category>Government</itunes:category>
+    <itunes:category>Education</itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Brad Neal</itunes:author>
+    <link>https://purplefloyd14.github.io/index.html</link>
     <itunes:owner>
-      <itunes:name>Brad Neal</itunes:name>
       <itunes:email>scotus.oral.args.podcast@gmail.com</itunes:email>
+      <itunes:name>Brad Neal</itunes:name>
     </itunes:owner>
-    <itunes:category text="Society &amp; Culture" />
-    <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
-    <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
-
+    <itunes:type>episodic</itunes:type>
+    <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <title>new one v brother</title>
-      <description>new one v brother | 1234 | Docket #: docket1</description>
-      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-499.mp3" length="5" type="audio/mpeg" />
-      <guid isPermaLink="False">56</guid>
-      <pub_date>49, 42</pub_date>
-      <link>aol.com</link>
+      <title>Department of Health and Human Servs. v. Florida</title>
+      <description>Department of Health and Human Servs. v. Florida | 03/26/12 | Docket #: 11-398-Monday</description>
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/11-398-Monday.mp3" length="7373" type="audio/mpeg" />
+      <guid isPermaLink="False">11-398-Monday</guid>
+      <pub_date>Mon, 26 Mar 2012 14:10:48 -0000</pub_date>
+      <link>https://www.supremecourt.gov/oral_arguments/audio/2011/11-398-Monday</link>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:season>2018</itunes:season>
+      <itunes:season>2012</itunes:season>
     </item>
-
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk AS</title>
+      <description>Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk AS | 12/05/11 | Docket #: 10-844</description>
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/10-844.mp3" length="7377" type="audio/mpeg" />
+      <guid isPermaLink="False">10-844</guid>
+      <pub_date>Mon, 05 Dec 2011 15:09:14 -0000</pub_date>
+      <link>https://www.supremecourt.gov/oral_arguments/audio/2011/10-844</link>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2011</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Department of Health and Human Servs. v. Florida</title>
+      <description>Department of Health and Human Servs. v. Florida | 03/26/12 | Docket #: 11-398-Monday</description>
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/11-398-Monday.mp3" length="7373" type="audio/mpeg" />
+      <guid isPermaLink="False">11-398-Monday</guid>
+      <pub_date>Mon, 26 Mar 2012 14:38:43 -0000</pub_date>
+      <link>https://www.supremecourt.gov/oral_arguments/audio/2011/11-398-Monday</link>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2012</itunes:season>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk AS</title>
+      <description>Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk AS | 12/05/11 | Docket #: 10-844</description>
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/10-844.mp3" length="7377" type="audio/mpeg" />
+      <guid isPermaLink="False">10-844</guid>
+      <pub_date>Mon, 05 Dec 2011 17:36:39 -0000</pub_date>
+      <link>https://www.supremecourt.gov/oral_arguments/audio/2011/10-844</link>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2011</itunes:season>
+    </item>
   </channel>
 </rss>
