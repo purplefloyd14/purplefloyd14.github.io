@@ -1,17 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <item>
-      <title>new one v brother</title>
-      <link>aol.com</link>
-      <description>&lt;![CDATA[&lt;p&gt;new one v brother | 1234 | Docket #: docket1&lt;/p&gt;]]&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt; new one v brother | 1234 | Docket #: docket1&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt; Support the law student behind this project: &lt;/p&gt;&lt;p&gt;https://www.patreon.com/purplefloyd&lt;/p&gt;]]&gt;</content:encoded>
-      <author>scotus.oral.args.podcast@gmail.com</author>
-      <pub_date />
-      <enclosure url="123.com" length="5" type="audio/mpeg" />
-      <guid isPermaLink="False" />
-    </item>
-    
     <title>The Supreme Court: Oral Arguments</title>
     <link>https://purplefloyd14.github.io/index.html</link>
     <description>
@@ -62,5 +51,15 @@
     <itunes:category text="Society &amp; Culture" />
     <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
     <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
+    <item>
+      <title>new one v brother</title>
+      <link>aol.com</link>
+      <description>&lt;![CDATA[&lt;p&gt;new one v brother | 1234 | Docket #: docket1&lt;/p&gt;]]&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt; new one v brother | 1234 | Docket #: docket1&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt; Support the law student behind this project: &lt;/p&gt;&lt;p&gt;https://www.patreon.com/purplefloyd&lt;/p&gt;]]&gt;</content:encoded>
+      <author>scotus.oral.args.podcast@gmail.com</author>
+      <pub_date />
+      <enclosure url="123.com" length="5" type="audio/mpeg" />
+      <guid isPermaLink="False" />
+    </item>
   </channel>
 </rss>
