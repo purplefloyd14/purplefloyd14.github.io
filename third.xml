@@ -59,7 +59,7 @@
       <author>scotus.oral.args.podcast@gmail.com</author>
       <pub_date />
       <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="5" type="audio/mpeg" />
-      <guid isPermaLink="False"/>id_02</guid>
+      <guid isPermaLink="False">id_02</guid>
     </item>
   </channel>
 </rss>
