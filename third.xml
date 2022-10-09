@@ -1,28 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Supreme Court: Oral Arguments</title>
     <link>https://purplefloyd14.github.io/index.html</link>
     <description>
 
-      &lt;p&gt; 1 A public good: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
-      &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
-      &lt;p&gt; --- &lt;/p&gt;
-      &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
-    &lt;/br&gt;
-      &lt;p&gt; &lt;a href="https://www.patreon.com/purplefloyd"&gt;https://www.patreon.com/purplefloyd&lt;/a&gt; &lt;/p&gt;
+      1 A public good: every Supreme Court Oral Argument since 2010.
+      Making the Highest Court more accessible for a modern audience.
+      If you'd like to support this project you can do so here:
+      https://www.patreon.com/purplefloyd&lt;/a&gt;
 
     </description>
-    <content:encoded>
-
-      &lt;p&gt; 2 A public GOOD: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
-      &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
-    &lt;/br&gt;
-      &lt;p&gt; --- &lt;/p&gt;
-      &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
-      &lt;p&gt; &lt;a href='https://www.patreon.com/purplefloyd'/&gt; &lt;/p&gt;
-
-    </content:encoded>
     <language>en-us</language>
     <copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     <pubDate>Thurs, 6 Oct 2022 13:43:03 CST</pubDate>
@@ -31,16 +19,6 @@
     <itunes:summary>
   3 A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd
     </itunes:summary>
-    <content:encoded>
-
-      &lt;p&gt; 4 A public GOOD: every Supreme Court Oral Argument since 2010. &lt;/p&gt;
-      &lt;p&gt; Making the Highest Court more accessible for a modern audience.  &lt;/p&gt;
-    &lt;/br&gt;
-      &lt;p&gt; --- &lt;/p&gt;
-      &lt;p&gt;If you'd like to support this project you can do so here: &lt;/p&gt;
-      &lt;p&gt; &lt;a href='https://www.patreon.com/purplefloyd'/&gt; &lt;/p&gt;
-
-    </content:encoded>
     <itunes:author>Brad Neal</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://courtartist.com/wp-content/uploads/bSC220425wide_Clement.jpg" />
@@ -51,15 +29,18 @@
     <itunes:category text="Society &amp; Culture" />
     <managingEditor>scotus.oral.args.podcast@gmail.com</managingEditor>
     <webMaster>scotus.oral.args.podcast@gmail.com</webMaster>
+
     <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <title>new one v brother</title>
-      <link>aol.com</link>
       <description>new one v brother | 1234 | Docket #: docket1</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt; new one v brother | 1234 | Docket #: docket1&lt;/p&gt;&lt;p&gt;***&lt;/p&gt;&lt;p&gt; Support the law student behind this project: &lt;/p&gt;&lt;p&gt;https://www.patreon.com/purplefloyd&lt;/p&gt;]]&gt;</content:encoded>
-      <author>scotus.oral.args.podcast@gmail.com</author>
-      <pub_date />
-      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/145-Orig.mp3" length="5" type="audio/mpeg" />
-      <guid isPermaLink="False">id_02</guid>
+      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-499.mp3" length="5" type="audio/mpeg" />
+      <guid isPermaLink="False">56</guid>
+      <pub_date>49, 42</pub_date>
+      <link>aol.com</link>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2018</itunes:season>
     </item>
+
   </channel>
 </rss>
