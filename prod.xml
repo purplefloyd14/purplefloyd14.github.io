@@ -8983,16 +8983,5 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>2022</itunes:season>
     </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <title>Sackett v. EPA</title>
-      <description>Sackett v. EPA | 10/03/22 | Docket #: 21-454</description>
-      <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-454.mp3" length="7349" type="audio/mpeg" />
-      <guid isPermaLink="False">21-454</guid>
-      <pubDate>Mon, 03 Oct 2022 20:32:36 -0000</pubDate>
-      <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-454</link>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>2022</itunes:season>
-    </item>
   </channel>
 </rss>
