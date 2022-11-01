@@ -16,33 +16,44 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
-      <item>
-          <itunes:episodetype>full</itunes:episodetype>
-          <title>Students for Fair Admissions v. President and Fellows of Harvard</title>
-          <description>Students for Fair Admissions v. President and Fellows of Harvard | 10/31/22 | Docket #: 20-1199</description>
-          <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/20-1199.mp3" length="7376" type="audio/mpeg"/>
-          <guid ispermalink="False">20-1199</guid>
-          <pubDate>Tue, 01 Nov 2022 00:39:23 -0000</pubDate>
-          <link>https://www.supremecourt.gov/oral_arguments/audio/2022/20-1199</link>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:season>2022</itunes:season>
-        </item>
-        <item>
-          <itunes:episodetype>full</itunes:episodetype>
-          <title>Students for Fair Admissions v. University of NC</title>
-          <description>Students for Fair Admissions v. University of NC | 10/31/22 | Docket #: 21-707</description>
-          <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-707.mp3" length="7369" type="audio/mpeg"/>
-          <guid ispermalink="False">21-707</guid>
-          <pubDate>Tue, 01 Nov 2022 00:39:21 -0000</pubDate>
-          <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-707</link>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:season>2022</itunes:season>
-        </item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Jones v. Hendrix</title>
+      			<description>Jones v. Hendrix | 11/01/22 | Docket #: 21-857</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-857.mp3" length="7350" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-857</guid>
+      			<pubDate>Tue, 01 Nov 2022 18:26:25 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-857</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Students for Fair Admissions v. President and Fellows of Harvard</title>
+      			<description>Students for Fair Admissions v. President and Fellows of Harvard | 10/31/22 | Docket #: 20-1199</description>
+      			<enclosure length="7376" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/20-1199.mp3"></enclosure>
+      			<guid ispermalink="False">20-1199</guid>
+      			<pubDate>Tue, 01 Nov 2022 00:39:23 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/20-1199</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Students for Fair Admissions v. University of NC</title>
+      			<description>Students for Fair Admissions v. University of NC | 10/31/22 | Docket #: 21-707</description>
+      			<enclosure length="7369" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-707.mp3"></enclosure>
+      			<guid ispermalink="False">21-707</guid>
+      			<pubDate>Tue, 01 Nov 2022 00:39:21 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-707</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Helix Energy Solutions v. Hewitt</title>
       			<description>Helix Energy Solutions v. Hewitt | 10/12/22 | Docket #: 21-984</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-984.mp3" length="7363" type="audio/mpeg"></enclosure>
+      			<enclosure length="7363" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-984.mp3"></enclosure>
       			<guid ispermalink="False">21-984</guid>
       			<pubDate>Wed, 12 Oct 2022 19:23:18 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-984</link>
@@ -53,7 +64,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Andy Warhol Found., Inc. v. Goldsmith</title>
       			<description>Andy Warhol Found., Inc. v. Goldsmith | 10/12/22 | Docket #: 21-869</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-869.mp3" length="7367" type="audio/mpeg"></enclosure>
+      			<enclosure length="7367" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-869.mp3"></enclosure>
       			<guid ispermalink="False">21-869</guid>
       			<pubDate>Wed, 12 Oct 2022 19:23:17 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-869</link>
