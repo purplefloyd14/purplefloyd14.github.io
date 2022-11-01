@@ -16,6 +16,28 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+      <item>
+          <itunes:episodetype>full</itunes:episodetype>
+          <title>Students for Fair Admissions v. President and Fellows of Harvard</title>
+          <description>Students for Fair Admissions v. President and Fellows of Harvard | 10/31/22 | Docket #: 20-1199</description>
+          <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/20-1199.mp3" length="7376" type="audio/mpeg"/>
+          <guid ispermalink="False">20-1199</guid>
+          <pubDate>Tue, 01 Nov 2022 00:39:23 -0000</pubDate>
+          <link>https://www.supremecourt.gov/oral_arguments/audio/2022/20-1199</link>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:season>2022</itunes:season>
+        </item>
+        <item>
+          <itunes:episodetype>full</itunes:episodetype>
+          <title>Students for Fair Admissions v. University of NC</title>
+          <description>Students for Fair Admissions v. University of NC | 10/31/22 | Docket #: 21-707</description>
+          <enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-707.mp3" length="7369" type="audio/mpeg"/>
+          <guid ispermalink="False">21-707</guid>
+          <pubDate>Tue, 01 Nov 2022 00:39:21 -0000</pubDate>
+          <link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-707</link>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:season>2022</itunes:season>
+        </item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Helix Energy Solutions v. Hewitt</title>
