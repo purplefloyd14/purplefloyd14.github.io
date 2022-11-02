@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Bittner v. United States</title>
+      			<description>Bittner v. United States | 11/02/22 | Docket #: 21-1195</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1195.mp3" length="7351" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1195</guid>
+      			<pubDate>Wed, 02 Nov 2022 20:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1195</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Cruz v. Arizona</title>
       			<description>Cruz v. Arizona | 11/01/22 | Docket #: 21-846</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-846.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-846.mp3"></enclosure>
       			<guid ispermalink="False">21-846</guid>
       			<pubDate>Tue, 01 Nov 2022 19:30:51 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-846</link>
