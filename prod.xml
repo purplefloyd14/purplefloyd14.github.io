@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Mallory v. Norfolk Southern Railway Co.</title>
+      			<description>Mallory v. Norfolk Southern Railway Co. | 11/08/22 | Docket #: 21-1168</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1168.mp3" length="7370" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1168</guid>
+      			<pubDate>Tue, 08 Nov 2022 20:30:50 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1168</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>SEC v. Cochran</title>
       			<description>SEC v. Cochran | 11/07/22 | Docket #: 21-1239</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1239.mp3" length="7350" type="audio/mpeg"></enclosure>
+      			<enclosure length="7350" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1239.mp3"></enclosure>
       			<guid ispermalink="False">21-1239</guid>
       			<pubDate>Mon, 07 Nov 2022 20:30:53 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1239</link>
@@ -31,7 +42,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Axon Enterprise, Inc. v. FTC</title>
       			<description>Axon Enterprise, Inc. v. FTC | 11/07/22 | Docket #: 21-86</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-86.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-86.mp3"></enclosure>
       			<guid ispermalink="False">21-86</guid>
       			<pubDate>Mon, 07 Nov 2022 20:30:51 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-86</link>
