@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Haaland v. Brackeen</title>
+      			<description>Haaland v. Brackeen | 11/09/22 | Docket #: 21-376</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-376.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-376</guid>
+      			<pubDate>Wed, 09 Nov 2022 21:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-376</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Health and Hospital Corp. v. Talevski</title>
       			<description>Health and Hospital Corp. v. Talevski | 11/08/22 | Docket #: 21-806</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-806.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-806.mp3"></enclosure>
       			<guid ispermalink="False">21-806</guid>
       			<pubDate>Tue, 08 Nov 2022 21:30:50 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-806</link>
