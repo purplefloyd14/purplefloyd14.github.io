@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Ciminelli v. United State</title>
+      			<description>Ciminelli v. United State | 11/28/22 | Docket #: 21-1170</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1170.mp3" length="7353" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1170</guid>
+      			<pubDate>Mon, 28 Nov 2022 20:30:53 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1170</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Percoco v. United States</title>
+      			<description>Percoco v. United States | 11/28/22 | Docket #: 21-1158</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1158.mp3" length="7351" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1158</guid>
+      			<pubDate>Mon, 28 Nov 2022 20:30:51 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1158</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Haaland v. Brackeen</title>
       			<description>Haaland v. Brackeen | 11/09/22 | Docket #: 21-376</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-376.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-376.mp3"></enclosure>
       			<guid ispermalink="False">21-376</guid>
       			<pubDate>Wed, 09 Nov 2022 21:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-376</link>
