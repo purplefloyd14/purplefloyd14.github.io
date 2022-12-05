@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>MOAC Mall Holdings LLC v. Transform Holdco LLC</title>
+      			<description>MOAC Mall Holdings LLC v. Transform Holdco LLC | 12/05/22 | Docket #: 21-1270</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1270.mp3" length="7367" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1270</guid>
+      			<pubDate>Mon, 05 Dec 2022 22:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1270</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>303 Creative LLC v. Elenis</title>
+      			<description>303 Creative LLC v. Elenis | 12/05/22 | Docket #: 21-476</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-476.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-476</guid>
+      			<pubDate>Mon, 05 Dec 2022 22:30:51 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-476</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Wilkins v. United States</title>
       			<description>Wilkins v. United States | 11/30/22 | Docket #: 21-1164</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1164.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1164.mp3"></enclosure>
       			<guid ispermalink="False">21-1164</guid>
       			<pubDate>Wed, 30 Nov 2022 20:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1164</link>
