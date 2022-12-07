@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Moore v. Harper</title>
+      			<description>Moore v. Harper | 12/07/22 | Docket #: 21-1271</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1271.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1271</guid>
+      			<pubDate>Wed, 07 Dec 2022 20:30:53 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1271</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Bartenwerfer v. Buckley</title>
       			<description>Bartenwerfer v. Buckley | 12/06/22 | Docket #: 21-908</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-908.mp3" length="7356" type="audio/mpeg"></enclosure>
+      			<enclosure length="7356" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-908.mp3"></enclosure>
       			<guid ispermalink="False">21-908</guid>
       			<pubDate>Tue, 06 Dec 2022 20:30:53 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-908</link>
@@ -31,7 +42,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>U.S., ex rel. Polansky v. Executive Health</title>
       			<description>U.S., ex rel. Polansky v. Executive Health | 12/06/22 | Docket #: 21-1052</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1052.mp3" length="7372" type="audio/mpeg"></enclosure>
+      			<enclosure length="7372" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1052.mp3"></enclosure>
       			<guid ispermalink="False">21-1052</guid>
       			<pubDate>Tue, 06 Dec 2022 20:30:51 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1052</link>
