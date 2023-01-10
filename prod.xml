@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Glacier Northwest, Inc. v. Int'l Brotherhood of Teamsters</title>
+      			<description>Glacier Northwest, Inc. v. Int'l Brotherhood of Teamsters | 01/10/23 | Docket #: 21-1449</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1449.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1449</guid>
+      			<pubDate>Tue, 10 Jan 2023 20:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1449</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>OH Adjutant Gen.'s Dept. v. FLRA</title>
       			<description>OH Adjutant Gen.'s Dept. v. FLRA | 01/09/23 | Docket #: 21-1454</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1454.mp3" length="7364" type="audio/mpeg"></enclosure>
+      			<enclosure length="7364" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1454.mp3"></enclosure>
       			<guid ispermalink="False">21-1454</guid>
       			<pubDate>Mon, 09 Jan 2023 20:30:53 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1454</link>
@@ -31,7 +42,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>In Re Grand Jury</title>
       			<description>In Re Grand Jury | 01/09/23 | Docket #: 21-1397</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1397.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1397.mp3"></enclosure>
       			<guid ispermalink="False">21-1397</guid>
       			<pubDate>Mon, 09 Jan 2023 20:30:51 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1397</link>
