@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Gonzalez v. Google LLC</title>
+      			<description>Gonzalez v. Google LLC | 02/21/23 | Docket #: 21-1333</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1333.mp3" length="7356" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1333</guid>
+      			<pubDate>Tue, 21 Feb 2023 20:30:53 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1333</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Perez v. Sturgis Public Schools</title>
       			<description>Perez v. Sturgis Public Schools | 01/18/23 | Docket #: 21-887</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-887.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-887.mp3"></enclosure>
       			<guid ispermalink="False">21-887</guid>
       			<pubDate>Wed, 18 Jan 2023 20:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-887</link>
