@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>New York v. New Jersey</title>
+      			<description>New York v. New Jersey | 03/01/23 | Docket #: 156-Orig</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/156-Orig.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">156-Orig</guid>
+      			<pubDate>Wed, 01 Mar 2023 20:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/156-Orig</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Dept. of Education v. Brown</title>
       			<description>Dept. of Education v. Brown | 02/28/23 | Docket #: 22-535</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-535.mp3" length="7358" type="audio/mpeg"></enclosure>
+      			<enclosure length="7358" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-535.mp3"></enclosure>
       			<guid ispermalink="False">22-535</guid>
       			<pubDate>Tue, 28 Feb 2023 20:30:55 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-535</link>
@@ -31,7 +42,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Biden v. Nebraska</title>
       			<description>Biden v. Nebraska | 02/28/23 | Docket #: 22-506</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-506.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-506.mp3"></enclosure>
       			<guid ispermalink="False">22-506</guid>
       			<pubDate>Tue, 28 Feb 2023 20:30:53 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-506</link>
