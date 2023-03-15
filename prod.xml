@@ -4,7 +4,7 @@
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
     		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd</description>
-    		<itunes:image href="purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
+    		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
     		<itunes:category>Government</itunes:category>
     		<itunes:explicit>false</itunes:explicit>
