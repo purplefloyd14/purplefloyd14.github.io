@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Arizona v. Navajo Nation</title>
+      			<description>Arizona v. Navajo Nation | 03/20/23 | Docket #: 21-1484</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1484.mp3" length="7356" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1484</guid>
+      			<pubDate>Mon, 20 Mar 2023 19:30:53 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1484</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>New York v. New Jersey</title>
       			<description>New York v. New Jersey | 03/01/23 | Docket #: 156-Orig</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/156-Orig.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/156-Orig.mp3"></enclosure>
       			<guid ispermalink="False">156-Orig</guid>
       			<pubDate>Wed, 01 Mar 2023 20:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/156-Orig</link>
