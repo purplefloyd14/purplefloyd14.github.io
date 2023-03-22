@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Jack Daniel's Properties, Inc. v. VIP Products</title>
+      			<description>Jack Daniel's Properties, Inc. v. VIP Products | 03/22/23 | Docket #: 22-148</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-148.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-148</guid>
+      			<pubDate>Wed, 22 Mar 2023 19:30:51 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-148</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Coinbase, Inc. v. Bielski</title>
       			<description>Coinbase, Inc. v. Bielski | 03/21/23 | Docket #: 22-105</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-105.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-105.mp3"></enclosure>
       			<guid ispermalink="False">22-105</guid>
       			<pubDate>Tue, 21 Mar 2023 20:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-105</link>
