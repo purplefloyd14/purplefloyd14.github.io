@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>United States v. Hansen</title>
+      			<description>United States v. Hansen | 03/27/23 | Docket #: 22-179</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-179.mp3" length="7353" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-179</guid>
+      			<pubDate>Mon, 27 Mar 2023 20:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-179</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Amgen Inc. v. Sanofi</title>
       			<description>Amgen Inc. v. Sanofi | 03/27/23 | Docket #: 21-757</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-757.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-757.mp3"></enclosure>
       			<guid ispermalink="False">21-757</guid>
       			<pubDate>Mon, 27 Mar 2023 19:30:53 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-757</link>
