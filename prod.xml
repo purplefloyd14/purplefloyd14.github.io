@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Lora v. United States</title>
+      			<description>Lora v. United States | 03/28/23 | Docket #: 22-49</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-49.mp3" length="7350" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-49</guid>
+      			<pubDate>Tue, 28 Mar 2023 19:30:56 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-49</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Smith v. United States</title>
+      			<description>Smith v. United States | 03/28/23 | Docket #: 21-1576</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1576.mp3" length="7353" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1576</guid>
+      			<pubDate>Tue, 28 Mar 2023 19:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1576</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>United States v. Hansen</title>
       			<description>United States v. Hansen | 03/27/23 | Docket #: 22-179</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-179.mp3" length="7353" type="audio/mpeg"></enclosure>
+      			<enclosure length="7353" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-179.mp3"></enclosure>
       			<guid ispermalink="False">22-179</guid>
       			<pubDate>Mon, 27 Mar 2023 20:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-179</link>
