@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Karcho Polselli v. IRS</title>
+      			<description>Karcho Polselli v. IRS | 03/29/23 | Docket #: 21-1599</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1599.mp3" length="7359" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1599</guid>
+      			<pubDate>Wed, 29 Mar 2023 19:30:57 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1599</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Samia v. United States</title>
+      			<description>Samia v. United States | 03/29/23 | Docket #: 22-196</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-196.mp3" length="7350" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-196</guid>
+      			<pubDate>Wed, 29 Mar 2023 19:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-196</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Lora v. United States</title>
       			<description>Lora v. United States | 03/28/23 | Docket #: 22-49</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-49.mp3" length="7350" type="audio/mpeg"></enclosure>
+      			<enclosure length="7350" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-49.mp3"></enclosure>
       			<guid ispermalink="False">22-49</guid>
       			<pubDate>Tue, 28 Mar 2023 19:30:56 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-49</link>
@@ -31,7 +53,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Smith v. United States</title>
       			<description>Smith v. United States | 03/28/23 | Docket #: 21-1576</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1576.mp3" length="7353" type="audio/mpeg"></enclosure>
+      			<enclosure length="7353" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/21-1576.mp3"></enclosure>
       			<guid ispermalink="False">21-1576</guid>
       			<pubDate>Tue, 28 Mar 2023 19:30:54 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1576</link>
