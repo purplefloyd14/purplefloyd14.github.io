@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Slack Technologies, LLC v. Pirani</title>
+      			<description>Slack Technologies, LLC v. Pirani | 04/17/23 | Docket #: 22-200</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-200.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-200</guid>
+      			<pubDate>Mon, 17 Apr 2023 22:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-200</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Pugin v. Garland</title>
       			<description>Pugin v. Garland | 04/17/23 | Docket #: 22-23</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-23.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-23.mp3"></enclosure>
       			<guid ispermalink="False">22-23</guid>
       			<pubDate>Mon, 17 Apr 2023 19:30:54 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-23</link>
