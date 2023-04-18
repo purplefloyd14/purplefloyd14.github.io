@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>U.S., ex rel. Schutte v. SuperValu Inc.</title>
+      			<description>U.S., ex rel. Schutte v. SuperValu Inc. | 04/18/23 | Docket #: 21-1326</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/21-1326.mp3" length="7370" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">21-1326</guid>
+      			<pubDate>Tue, 18 Apr 2023 19:30:56 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/21-1326</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Groff v. DeJoy</title>
+      			<description>Groff v. DeJoy | 04/18/23 | Docket #: 22-174</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-174.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-174</guid>
+      			<pubDate>Tue, 18 Apr 2023 19:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-174</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Slack Technologies, LLC v. Pirani</title>
       			<description>Slack Technologies, LLC v. Pirani | 04/17/23 | Docket #: 22-200</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-200.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-200.mp3"></enclosure>
       			<guid ispermalink="False">22-200</guid>
       			<pubDate>Mon, 17 Apr 2023 22:30:54 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-200</link>
