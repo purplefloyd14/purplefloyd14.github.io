@@ -18,9 +18,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Lac du Flambeau Band v. Coughlin</title>
+      			<description>Lac du Flambeau Band v. Coughlin | 04/24/23 | Docket #: 22-227</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-227.mp3" length="7361" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-227</guid>
+      			<pubDate>Mon, 24 Apr 2023 19:30:56 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-227</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Dupree v. Younger</title>
+      			<description>Dupree v. Younger | 04/24/23 | Docket #: 22-210</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-210.mp3" length="7354" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-210</guid>
+      			<pubDate>Mon, 24 Apr 2023 19:30:53 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-210</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2022</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Counterman v. Colorado</title>
       			<description>Counterman v. Colorado | 04/19/23 | Docket #: 22-138</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-138.mp3" length="7355" type="audio/mpeg"></enclosure>
+      			<enclosure length="7355" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-138.mp3"></enclosure>
       			<guid ispermalink="False">22-138</guid>
       			<pubDate>Wed, 19 Apr 2023 19:30:54 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2022/22-138</link>
