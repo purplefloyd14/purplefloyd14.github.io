@@ -18,9 +18,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>CFPB v. Com. Fin. Services Assn.</title>
+      			<description>CFPB v. Com. Fin. Services Assn. | 10/03/23 | Docket #: 22-448</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-448.mp3" length="7406" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-448</guid>
+      			<pubDate>Tue, 03 Oct 2023 19:30:52 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-448</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Pulsifer v. United States</title>
       			<description>Pulsifer v. United States | 10/02/23 | Docket #: 22-340</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-340.mp3" length="7369" type="audio/mpeg"></enclosure>
+      			<enclosure length="7369" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-340.mp3"></enclosure>
       			<guid ispermalink="False">22-340</guid>
       			<pubDate>Mon, 02 Oct 2023 04:37:51 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-340</link>
