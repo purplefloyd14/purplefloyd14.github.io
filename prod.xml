@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd</description>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. More information about this podcast can be found here: https://tinyurl.com/3uvvfbsk. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.patreon.com/purplefloyd. Thanks for listening!</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
     		<itunes:category>Government</itunes:category>
@@ -31,7 +31,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>CFPB v. Com. Fin. Services Assn.</title>
       			<description>CFPB v. Com. Fin. Services Assn. | 10/03/23 | Docket #: 22-448</description>
-      			<enclosure length="7406" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-448.mp3"></enclosure>
+      			<enclosure length="7406" type="audio/mpeg" url="https://ia902607.us.archive.org/26/items/CFBP_with_Intro/CFPB%2Bintro.mp3"></enclosure>
       			<guid ispermalink="False">22-448</guid>
       			<pubDate>Tue, 03 Oct 2023 19:30:52 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-448</link>
