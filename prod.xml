@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																								<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																														<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,9 +19,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Loper Bright Enterprises, Inc. v. Raimondo, Sec. of Comm.</title>
+      			<description>Loper Bright Enterprises, Inc. v. Raimondo, Sec. of Comm. | 01/17/24 | Docket #: 22-451</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-451.mp3" length="7429" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-451</guid>
+      			<pubDate>Wed, 17 Jan 2024 21:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-451</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Relentless, Inc. v. Dept. of Commerce</title>
       			<description>Relentless, Inc. v. Dept. of Commerce | 01/17/24 | Docket #: 22-1219</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-1219.mp3" length="7416" type="audio/mpeg"></enclosure>
+      			<enclosure length="7416" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-1219.mp3"></enclosure>
       			<guid ispermalink="False">22-1219</guid>
       			<pubDate>Wed, 17 Jan 2024 20:30:54 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-1219</link>
