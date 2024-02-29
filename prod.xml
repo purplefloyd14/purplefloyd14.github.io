@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																						<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,9 +19,75 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Coinbase, Inc. v. Suski</title>
+      			<description>Coinbase, Inc. v. Suski | 02/28/24 | Docket #: 23-3</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-3.mp3" length="7394" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">23-3</guid>
+      			<pubDate>Wed, 28 Feb 2024 22:31:05 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-3</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Garland, Att'y Gen. v. Cargill</title>
+      			<description>Garland, Att'y Gen. v. Cargill | 02/28/24 | Docket #: 22-976</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-976.mp3" length="7411" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-976</guid>
+      			<pubDate>Wed, 28 Feb 2024 22:31:03 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-976</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Cantero v. Bank of America, N.A.</title>
+      			<description>Cantero v. Bank of America, N.A. | 02/27/24 | Docket #: 22-529</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-529.mp3" length="7409" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-529</guid>
+      			<pubDate>Tue, 27 Feb 2024 22:31:01 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-529</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>McIntosh v. United States</title>
+      			<description>McIntosh v. United States | 02/27/24 | Docket #: 22-7386</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-7386.mp3" length="7400" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-7386</guid>
+      			<pubDate>Tue, 27 Feb 2024 22:30:59 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-7386</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>NetChoice, LLC v. Paxton</title>
+      			<description>NetChoice, LLC v. Paxton | 02/26/24 | Docket #: 22-555</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-555.mp3" length="7408" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-555</guid>
+      			<pubDate>Mon, 26 Feb 2024 22:30:57 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-555</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Moody v. NetChoice, LLC</title>
+      			<description>Moody v. NetChoice, LLC | 02/26/24 | Docket #: 22-277</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-277.mp3" length="7408" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">22-277</guid>
+      			<pubDate>Mon, 26 Feb 2024 22:30:55 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-277</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Warner Chappell Music, Inc. v. Nealy</title>
       			<description>Warner Chappell Music, Inc. v. Nealy | 02/21/24 | Docket #: 22-1078</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/22-1078.mp3" length="7418" type="audio/mpeg"></enclosure>
+      			<enclosure length="7418" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/22-1078.mp3"></enclosure>
       			<guid ispermalink="False">22-1078</guid>
       			<pubDate>Wed, 21 Feb 2024 20:31:00 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-1078</link>
@@ -32,7 +98,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Ohio v. EPA</title>
       			<description>Ohio v. EPA | 02/21/24 | Docket #: 23A349</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23A349.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/23A349.mp3"></enclosure>
       			<guid ispermalink="False">23A349</guid>
       			<pubDate>Wed, 21 Feb 2024 20:30:57 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23A349</link>
