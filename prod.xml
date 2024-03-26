@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																						<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,9 +19,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>FDA v. Alliance Hippocratic Medicine</title>
+      			<description>FDA v. Alliance Hippocratic Medicine | 03/26/24 | Docket #: 23-235</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-235.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">23-235</guid>
+      			<pubDate>Tue, 26 Mar 2024 19:30:58 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-235</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Harrow v. Dept. of Defense</title>
       			<description>Harrow v. Dept. of Defense | 03/25/24 | Docket #: 23-21</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-21.mp3" length="7401" type="audio/mpeg"></enclosure>
+      			<enclosure length="7401" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/23-21.mp3"></enclosure>
       			<guid ispermalink="False">23-21</guid>
       			<pubDate>Mon, 25 Mar 2024 19:31:00 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-21</link>
@@ -32,7 +43,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Becerra, Sec. of H&amp;HS v. San Carlos Apache Tribe</title>
       			<description>Becerra, Sec. of H&amp;HS v. San Carlos Apache Tribe | 03/25/24 | Docket #: 23-250</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-250.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/23-250.mp3"></enclosure>
       			<guid ispermalink="False">23-250</guid>
       			<pubDate>Mon, 25 Mar 2024 19:30:58 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-250</link>
