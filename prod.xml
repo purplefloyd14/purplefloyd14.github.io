@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																				<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																										<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,9 +19,31 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Starbucks Corp. v. McKinney</title>
+      			<description>Starbucks Corp. v. McKinney | 04/23/24 | Docket #: 23-367</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-367.mp3" length="7409" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">23-367</guid>
+      			<pubDate>Tue, 23 Apr 2024 19:31:00 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-367</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Dept. of State v. Munoz</title>
+      			<description>Dept. of State v. Munoz | 04/23/24 | Docket #: 23-334</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-334.mp3" length="7401" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">23-334</guid>
+      			<pubDate>Tue, 23 Apr 2024 19:30:58 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-334</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2023</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Smith v. Spizzirri</title>
       			<description>Smith v. Spizzirri | 04/22/24 | Docket #: 22-1218</description>
-      			<enclosure url="https://archive.org/download/22-1218-full/22-1218_full.mp3" length="7401" type="audio/mpeg"></enclosure>
+      			<enclosure length="7401" type="audio/mpeg" url="https://archive.org/download/22-1218-full/22-1218_full.mp3"></enclosure>
       			<guid ispermalink="False">22-1218</guid>
       			<pubDate>Mon, 22 Apr 2024 19:30:59 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/22-1218</link>
@@ -32,7 +54,7 @@
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>City of Grants Pass v. Johnson</title>
       			<description>City of Grants Pass v. Johnson | 04/22/24 | Docket #: 23-175</description>
-      			<enclosure url="https://archive.org/download/23-175-full/23-175_full.mp3" length="7413" type="audio/mpeg"></enclosure>
+      			<enclosure length="7413" type="audio/mpeg" url="https://archive.org/download/23-175-full/23-175_full.mp3"></enclosure>
       			<guid ispermalink="False">23-175</guid>
       			<pubDate>Mon, 22 Apr 2024 19:30:57 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2023/23-175</link>
