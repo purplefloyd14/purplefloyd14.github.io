@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																				<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																										<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,9 +19,20 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>San Francisco v. EPA</title>
+      			<description>San Francisco v. EPA | 10/16/24 | Docket #: 23-753</description>
+      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-753.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">23-753</guid>
+      			<pubDate>Wed, 16 Oct 2024 20:30:57 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2024/23-753</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2024</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Bufkin v. McDonough, Sec. of VA</title>
       			<description>Bufkin v. McDonough, Sec. of VA | 10/16/24 | Docket #: 23-713</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/23-713.mp3" length="7457" type="audio/mpeg"></enclosure>
+      			<enclosure length="7457" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/23-713.mp3"></enclosure>
       			<guid ispermalink="False">23-713</guid>
       			<pubDate>Wed, 16 Oct 2024 19:30:58 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2024/23-713</link>
