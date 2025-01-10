@@ -18,17 +18,7 @@
 				</itunes:owner>
 				<itunes:type>episodic</itunes:type>
 				<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
-				<item>
-						<itunes:episodetype>full</itunes:episodetype>
-						<title>Dewberry Group, Inc. v. Dewberry Engineers Inc.</title>
-						<description>Dewberry Group, Inc. v. Dewberry Engineers Inc. | 12/11/24 | Docket #: 23-900</description>
-						<enclosure length="7761" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/23-900.mp3"></enclosure>
-						<guid ispermalink="False">23-900</guid>
-						<pubDate>Wed, 11 Dec 2024 20:30:57 -0000</pubDate>
-						<link>https://www.supremecourt.gov/oral_arguments/audio/2024/23-900</link>
-						<itunes:explicit>false</itunes:explicit>
-						<itunes:season>2024</itunes:season>
-				</item>
+
 				<item>
 						<itunes:episodetype>full</itunes:episodetype>
 						<title>Seven County Coalition v. Eagle County</title>
