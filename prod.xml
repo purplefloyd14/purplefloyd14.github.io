@@ -20,19 +20,7 @@
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Trump v. CASA, Inc.</title>
-      			<description>Trump v. CASA, Inc. | 05/15/25 | Docket #: 24A884
-
-24A884 TRUMP V. CASA, INC.
-DECISION BELOW: 2025 WL 654902
-THE APPLICATIONS (24A884, 24A885, AND 24A886) FOR PARTIAL STAYS ARE 
-CONSOLIDATED AND DEFERRED PENDING ORAL ARGUMENT. 
- 
-THE 
-APPLICATIONS ARE SET FOR A TOTAL OF ONE HOUR ORAL ARGUMENT AT 10 
-A.M. ON THURSDAY, MAY 15, 2025.
-SET FOR ORAL ARGUMENT 4/17/2025
-QUESTION PRESENTED:
-LOWER COURT CASE NUMBER:</description>
+      			<description>Trump v. CASA, Inc. | 05/15/25 | Docket #: 24A884</description>
       			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/24A884.mp3" length="7788" type="audio/mpeg"></enclosure>
       			<guid ispermalink="False">24A884</guid>
       			<pubDate>Thu, 15 May 2025 06:54:32 -0000</pubDate>
@@ -40,17 +28,7 @@ LOWER COURT CASE NUMBER:</description>
       			<itunes:explicit>false</itunes:explicit>
       			<itunes:season>2024</itunes:season>
     		</item>
-    		<item>
-      			<itunes:episodetype>full</itunes:episodetype>
-      			<title>OK Charter School Board v. Drummond</title>
-      			<description>OK Charter School Board v. Drummond | 04/30/25 | Docket #: 24-394</description>
-      			<enclosure length="7729" type="audio/mpeg" url="https://archive.org/download/scotus_24-394_20250430/24-394_full.mp3"></enclosure>
-      			<guid ispermalink="False">24-394</guid>
-      			<pubDate>Wed, 30 Apr 2025 19:30:55 -0000</pubDate>
-      			<link>https://www.supremecourt.gov/oral_arguments/audio/2024/24-394</link>
-      			<itunes:explicit>false</itunes:explicit>
-      			<itunes:season>2024</itunes:season>
-    		</item>
+
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Laboratory Corp. of America v. Davis</title>
