@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -17,6 +17,66 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Villarreal v. Texas</title>
+      			<description>Villarreal v. Texas | 10/06/25 | Docket #: 24-557
+
+24-557 VILLARREAL V. TEXAS
+DECISION BELOW: 707 S.W.3d 138
+CERT. GRANTED 4/7/2025
+QUESTION PRESENTED:
+Whether a trial court abridges the defendant's Sixth Amendment right to counsel by 
+prohibiting the defendant and his counsel from discussing the defendant's testimony during an 
+overnight recess.
+LOWER COURT CASE NUMBER: PD-0048-20</description>
+      			<enclosure url="https://archive.org/download/scotus_24-557_20251007/24-557_full.mp3" length="7787" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-557</guid>
+      			<pubDate>Mon, 06 Oct 2025 04:38:40 -0000</pubDate>
+      			<link>https://archive.org/details/scotus_24-557_20251007</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Berk v. Choy</title>
+      			<description>Berk v. Choy | 10/06/25 | Docket #: 24-440
+
+24-440 BERK V. CHOY
+DECISION BELOW: 2024 WL 5354482
+CERT. GRANTED 3/10/2025
+QUESTION PRESENTED:
+This case presents a clear, recognized, entrenched conflict over an important 
+question about the application of state procedural rules in federal court.
+Delaware, like numerous states, requires that in certain actions the plaintiff must 
+also file an affidavit of merit ("AOM") with the complaint. 
+See
+ 18 Del. C. § 6853. An 
+AOM is an affidavit signed by an expert stating that there are reasonable grounds to 
+believe that each defendant has committed the alleged misconduct. 
+See id.
+§ 6853(a)(l).
+The Second, Fourth, Fifth, Sixth, Seventh, and Ninth circuits hold that AOM 
+provisions and comparable statutes do not govern actions in federal court because they 
+answer the same question as-and therefore conflict with-several different Federal Rules 
+of Civil Procedure. The Third and Tenth circuits, in contrast, hold that they present "no 
+conflict" with any Federal Rules.
+In the decision below, the Third Circuit, in an unpublished opinion, for at least the 
+fifth time, refused to hold that an AOM statute conflicts with any Federal Rules. Judge 
+Phipps "concur[red] in only the judgment." Third Circuit precedent required him to vote 
+to affirm, he explained, but ''writing on a clean slate ... he may not [have] arrive[d] at that 
+same conclusion."
+The question presented is:
+Whether a state law providing that a complaint must be dismissed unless it is 
+accompanied by an expert affidavit may be applied in federal court.
+LOWER COURT CASE NUMBER: 23-1620</description>
+      			<enclosure url="https://archive.org/download/scotus_24-440_20251007/24-440_full.mp3" length="7781" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-440</guid>
+      			<pubDate>Mon, 06 Oct 2025 04:37:54 -0000</pubDate>
+      			<link>https://archive.org/details/scotus_24-440_20251007</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>OK Charter School Board v. Drummond</title>
@@ -63,7 +123,7 @@ religious schools from the state's charter-school program solely because the sch
 religious, or whether a state can justify such an exclusion by invoking anti-establishment 
 interests that go further than the Establishment Clause requires.
 LOWER COURT CASE NUMBER: 121,694</description>
-      			<enclosure url="https://archive.org/download/scotus_24-394_20250930/24-394_full.mp3" length="7798" type="audio/mpeg"></enclosure>
+      			<enclosure length="7798" type="audio/mpeg" url="https://archive.org/download/scotus_24-394_20250930/24-394_full.mp3"></enclosure>
       			<guid ispermalink="False">24-394</guid>
       			<pubDate>Wed, 30 Apr 2025 22:29:57 -0000</pubDate>
       			<link>https://archive.org/details/scotus_24-394_20250930</link>
