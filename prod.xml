@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 		<channel>
 				<title>The Supreme Court: Oral Arguments</title>
-				<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+				<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															<a href="https://www.patreon.com/purplefloyd">Patreon</a>
 				</description>
 				<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
 				<language>en-us</language>
@@ -18,7 +18,257 @@
 				</itunes:owner>
 				<itunes:type>episodic</itunes:type>
 				<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Barrett v. United States</title>
+						<description>Barrett v. United States | 10/07/25 | Docket #: 24-5774
 
+24-5774 BARRETT V. UNITED STATES
+DECISION BELOW: 102 F.4th 60
+PETITION FOR A WRIT OF CERTIORARI IS GRANTED LIMITED TO QUESTION 
+1
+ 
+PRESENTED BY THE PETITION.
+CHARLES L. McCLOUD, ESQUIRE, OF WASHINGTON, D. C., IS INVITED TO BRIEF AND 
+ARGUE THIS CASE, AS
+ AMICUS CURIAE
+, IN SUPPORT OF THE JUDGMENT BELOW.
+CERT. GRANTED 3/3/2025
+QUESTION PRESENTED:
+I.
+                    
+Whether the Double Jeopardy Clause permits two sentences for an act 
+that violates 18 U.S.C. § 924(c) and§ 924(j), a question that divides seven circuits 
+but about which the Solicitor General and Petitioner agree.
+ 
+II.
+                  
+Whether "Hobbs Act robbery qualifies as a crime of violence under §924(c)
+(3)(A), a question left open after" 
+United States v. Taylor
+, 596 U.S. 845 (2022). 
+United States v. Stoney
+, 62 F.4th 108, 113 (3d Cir. 2023).
+LOWER COURT CASE NUMBER: 21-1379</description>
+						<enclosure length="7782" type="audio/mpeg" url="https://archive.org/download/scotus_24-5774_20251007/24-5774_full.mp3"></enclosure>
+						<guid ispermalink="False">24-5774</guid>
+						<pubDate>Wed, 08 Oct 2025 00:35:30 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-5774_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Chiles v. Salazar</title>
+						<description>Chiles v. Salazar | 10/07/25 | Docket #: 24-539
+
+24-539 CHILES V. SALAZAR
+DECISION BELOW: 116 F.4th 1178
+CERT. GRANTED 3/10/2025
+QUESTION PRESENTED:
+Kaley Chiles is a licensed counselor who helps people by talking with them. A 
+practicing Christian, Chiles believes that people flourish when they live consistently with 
+God's design, including their biological sex. Many of her clients seek her counsel 
+precisely
+ because
+ they believe that their faith and their relationship with God 
+establishes the foundation upon which to understand their identity and desires. But 
+Colorado bans these consensual conversations based on the viewpoints they express. 
+Its content- and viewpoint-based Counseling Restriction prohibits counseling 
+conversations with minors that might encourage them to change their "sexual orientation 
+or gender identity, including efforts to change behaviors or gender expressions," while 
+allowing conversations that provide "[a]cceptance, support, and understanding for ... 
+identity exploration and development, including ... [a]ssistance to a person undergoing 
+gender transition." Colo. Rev. Stat. § 12- 245-202(3.5).
+The Tenth Circuit upheld this ban as a regulation of Chiles's conduct, not speech. 
+In doing so, the court deepened a circuit split between the Eleventh and Third Circuits, 
+which do not treat counseling conversations as conduct, and the Ninth Circuit, which 
+does.
+The question presented is:
+Whether a law that censors certain conversations between counselors and their 
+clients based on the viewpoints expressed regulates conduct or violates the Free 
+Speech Clause
+LOWER COURT CASE NUMBER: 22-1445, 23-1002</description>
+						<enclosure length="7778" type="audio/mpeg" url="https://archive.org/download/scotus_24-539_20251007/24-539_full.mp3"></enclosure>
+						<guid ispermalink="False">24-539</guid>
+						<pubDate>Wed, 08 Oct 2025 00:33:50 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-539_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Villarreal v. Texas</title>
+						<description>Villarreal v. Texas | 10/06/25 | Docket #: 24-557
+
+24-557 VILLARREAL V. TEXAS
+DECISION BELOW: 707 S.W.3d 138
+CERT. GRANTED 4/7/2025
+QUESTION PRESENTED:
+Whether a trial court abridges the defendant's Sixth Amendment right to counsel by 
+prohibiting the defendant and his counsel from discussing the defendant's testimony during an 
+overnight recess.
+LOWER COURT CASE NUMBER: PD-0048-20</description>
+						<enclosure length="20" type="audio/mpeg" url="https://archive.org/download/scotus_24-557_20251007/24-557_full.mp3"></enclosure>
+						<guid ispermalink="False">24-557</guid>
+						<pubDate>Tue, 07 Oct 2025 00:32:46 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-557_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Berk v. Choy</title>
+						<description>Berk v. Choy | 10/06/25 | Docket #: 24-440
+
+24-440 BERK V. CHOY
+DECISION BELOW: 2024 WL 5354482
+CERT. GRANTED 3/10/2025
+QUESTION PRESENTED:
+This case presents a clear, recognized, entrenched conflict over an important 
+question about the application of state procedural rules in federal court.
+Delaware, like numerous states, requires that in certain actions the plaintiff must 
+also file an affidavit of merit ("AOM") with the complaint. 
+See
+ 18 Del. C. § 6853. An 
+AOM is an affidavit signed by an expert stating that there are reasonable grounds to 
+believe that each defendant has committed the alleged misconduct. 
+See id.
+§ 6853(a)(l).
+The Second, Fourth, Fifth, Sixth, Seventh, and Ninth circuits hold that AOM 
+provisions and comparable statutes do not govern actions in federal court because they 
+answer the same question as-and therefore conflict with-several different Federal Rules 
+of Civil Procedure. The Third and Tenth circuits, in contrast, hold that they present "no 
+conflict" with any Federal Rules.
+In the decision below, the Third Circuit, in an unpublished opinion, for at least the 
+fifth time, refused to hold that an AOM statute conflicts with any Federal Rules. Judge 
+Phipps "concur[red] in only the judgment." Third Circuit precedent required him to vote 
+to affirm, he explained, but ''writing on a clean slate ... he may not [have] arrive[d] at that 
+same conclusion."
+The question presented is:
+Whether a state law providing that a complaint must be dismissed unless it is 
+accompanied by an expert affidavit may be applied in federal court.
+LOWER COURT CASE NUMBER: 23-1620</description>
+						<enclosure length="20" type="audio/mpeg" url="https://archive.org/download/scotus_24-440_20251007/24-440_full.mp3"></enclosure>
+						<guid ispermalink="False">24-440</guid>
+						<pubDate>Tue, 07 Oct 2025 00:31:16 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-440_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Villarreal v. Texas</title>
+						<description>Villarreal v. Texas | 10/06/25 | Docket #: 24-557
+
+24-557 VILLARREAL V. TEXAS
+DECISION BELOW: 707 S.W.3d 138
+CERT. GRANTED 4/7/2025
+QUESTION PRESENTED:
+Whether a trial court abridges the defendant's Sixth Amendment right to counsel by 
+prohibiting the defendant and his counsel from discussing the defendant's testimony during an 
+overnight recess.
+LOWER COURT CASE NUMBER: PD-0048-20</description>
+						<enclosure length="7787" type="audio/mpeg" url="https://archive.org/download/scotus_24-557_20251007/24-557_full.mp3"></enclosure>
+						<guid ispermalink="False">24-557</guid>
+						<pubDate>Mon, 06 Oct 2025 04:38:40 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-557_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>Berk v. Choy</title>
+						<description>Berk v. Choy | 10/06/25 | Docket #: 24-440
+
+24-440 BERK V. CHOY
+DECISION BELOW: 2024 WL 5354482
+CERT. GRANTED 3/10/2025
+QUESTION PRESENTED:
+This case presents a clear, recognized, entrenched conflict over an important 
+question about the application of state procedural rules in federal court.
+Delaware, like numerous states, requires that in certain actions the plaintiff must 
+also file an affidavit of merit ("AOM") with the complaint. 
+See
+ 18 Del. C. § 6853. An 
+AOM is an affidavit signed by an expert stating that there are reasonable grounds to 
+believe that each defendant has committed the alleged misconduct. 
+See id.
+§ 6853(a)(l).
+The Second, Fourth, Fifth, Sixth, Seventh, and Ninth circuits hold that AOM 
+provisions and comparable statutes do not govern actions in federal court because they 
+answer the same question as-and therefore conflict with-several different Federal Rules 
+of Civil Procedure. The Third and Tenth circuits, in contrast, hold that they present "no 
+conflict" with any Federal Rules.
+In the decision below, the Third Circuit, in an unpublished opinion, for at least the 
+fifth time, refused to hold that an AOM statute conflicts with any Federal Rules. Judge 
+Phipps "concur[red] in only the judgment." Third Circuit precedent required him to vote 
+to affirm, he explained, but ''writing on a clean slate ... he may not [have] arrive[d] at that 
+same conclusion."
+The question presented is:
+Whether a state law providing that a complaint must be dismissed unless it is 
+accompanied by an expert affidavit may be applied in federal court.
+LOWER COURT CASE NUMBER: 23-1620</description>
+						<enclosure length="7781" type="audio/mpeg" url="https://archive.org/download/scotus_24-440_20251007/24-440_full.mp3"></enclosure>
+						<guid ispermalink="False">24-440</guid>
+						<pubDate>Mon, 06 Oct 2025 04:37:54 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-440_20251007</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2025</itunes:season>
+				</item>
+				<item>
+						<itunes:episodetype>full</itunes:episodetype>
+						<title>OK Charter School Board v. Drummond</title>
+						<description>OK Charter School Board v. Drummond | 04/30/25 | Docket #: 24-394
+
+24-394 OK CHARTER SCHOOL BOARD V. DRUMMOND
+DECISION BELOW: 558 P.3d 1
+CONSOLIDATED WITH 
+24-396
+ FOR ONE HOUR ORAL ARGUMENT. 
+ 
+JUSTICE 
+BARRETT TOOK NO PART. 
+EXPEDITED BRIEFING. 
+CERT. GRANTED 1/24/2025
+QUESTION PRESENTED:
+This Court has "repeatedly held that a State violates the Free Exercise Clause 
+when it excludes religious observers from otherwise available public benefits." 
+Carson 
+as next friend of O. C. v. Makin
+, 596 U.S. 767, 778 (2022). Three times, the Court has 
+applied that principle to strike down "state efforts to withhold otherwise available public 
+benefits from religious organizations."
+ Id
+. at 778-79 (citing 
+Trinity Lutheran Church of 
+Columbia, Inc. v. Comer
+, 582 U.S. 449 (2017); 
+Espinoza v. Mont. Dep't of Revenue
+, 
+591 U.S. 464 (2020)).
+Contrary to those precedents, the Oklahoma Supreme Court held that a state can 
+exclude privately owned and operated religious charter schools from its charter-school 
+program by enforcing state-law bans on "sectarian" and religiously affiliated charter 
+schools. The court also held that a charter school engages in state action for 
+constitutional purposes when it contracts with the state to provide publicly funded 
+education. These rulings implicate an entrenched circuit split and present two questions 
+for review:
+1. Whether the academic and pedagogical choices of a privately owned and run 
+school constitute state action simply because it contracts with the state to offer a free 
+educational option for interested students.
+2. Whether a state violates the Free Exercise Clause by excluding privately run 
+religious schools from the state's charter-school program solely because the schools are 
+religious, or whether a state can justify such an exclusion by invoking anti-establishment 
+interests that go further than the Establishment Clause requires.
+LOWER COURT CASE NUMBER: 121,694</description>
+						<enclosure length="7798" type="audio/mpeg" url="https://archive.org/download/scotus_24-394_20250930/24-394_full.mp3"></enclosure>
+						<guid ispermalink="False">24-394</guid>
+						<pubDate>Wed, 30 Apr 2025 22:29:57 -0000</pubDate>
+						<link>https://archive.org/details/scotus_24-394_20250930</link>
+						<itunes:explicit>false</itunes:explicit>
+						<itunes:season>2024</itunes:season>
+				</item>
 				<item>
 						<itunes:episodetype>full</itunes:episodetype>
 						<title>Trump v. CASA, Inc.</title>
