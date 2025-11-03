@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -19,6 +19,52 @@
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Hencely v. Fluor Corp.</title>
+      			<description>Hencely v. Fluor Corp. | 11/03/25 | Docket #: 24-924
+
+24-924 HENCELY V. FLUOR CORP.
+DECISION BELOW: 120 F.4th 412
+CERT. GRANTED 6/2/2025
+QUESTION PRESENTED:
+Former U.S. Army Specialist Winston T. Hencely was critically and permanently injured 
+by a suicide bomber inside Bagram Airfield in Afghanistan. The bomber, Ahmad Nayeb, worked 
+on base for a government contractor. An Army investigation found that the attack's primary 
+contributing factor was the contractor's actions in breach of its Army contract and in violation 
+of the military's instructions to supervise Nayeb. Hencely sued the government contractor for 
+negligence under South Carolina law. He did not sue the military under the Federal Tort Claims 
+Act.
+Even so, the Fourth Circuit held that Hencely's state claims are preempted by unspoken 
+"federal interests" emanating from an FTCA exception. Invoking 
+Boyle v. United Technologies 
+Corp.
+, 487 U.S. 500 (1988), the court of appeals held that the FTCA's exception immunizing the 
+government
+ for "[a]ny claim arising out of the combatant activities of the military or naval 
+forces ... during time of war," 28 U.S.C. §2680(j), barred Hencely's South Carolina claims against 
+the 
+contractor
+. The decision below reaffirmed a 3-1-1 split among the Second, Third, Fourth, 
+Ninth and D.C. Circuits over 
+Boyle
+'s reach when contractors defend against state tort claims by 
+invoking §2680(j).
+The question presented is:
+Should 
+Boyle
+ be extended to allow federal interests emanating from the FTCA's 
+combatant-activities exception to preempt state tort claims against a government 
+contractor for conduct that breached its contract and violated military orders?
+ 
+LOWER COURT CASE NUMBER: 21-1994</description>
+      			<enclosure url="https://archive.org/download/scotus_24-924_20251103/24-924_full.mp3" length="7789" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-924</guid>
+      			<pubDate>Mon, 03 Nov 2025 20:30:54 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-924</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
       			<title>Rico v. United States</title>
       			<description>Rico v. United States | 11/03/25 | Docket #: 24-1056
 
@@ -28,7 +74,7 @@ CERT. GRANTED 6/30/2025
 QUESTION PRESENTED:
 Whether the fugitive-tolling doctrine applies in the context of supervised release.
 LOWER COURT CASE NUMBER: 24-2662</description>
-      			<enclosure url="https://www.supremecourt.gov/media/audio/mp3files/24-1056.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<enclosure length="20" type="audio/mpeg" url="https://www.supremecourt.gov/media/audio/mp3files/24-1056.mp3"></enclosure>
       			<guid ispermalink="False">24-1056</guid>
       			<pubDate>Mon, 03 Nov 2025 19:30:56 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-1056</link>
