@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -17,6 +17,42 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Rutherford v. United States</title>
+      			<description>Rutherford v. United States | 11/12/25 | Docket #: 24-820
+
+24-820 RUTHERFORD V. UNITED STATES
+DECISION BELOW: 120 F.4th 360
+CONSOLIDATED FOR ONE HOUR ORAL ARGUMENT WITH 24-860
+CERT. GRANTED 6/6/2025
+QUESTION PRESENTED:
+The compassionate-release statute permits courts to reduce a prisoner's 
+sentence if the court finds that "extraordinary and compelling reasons" warrant relief. 18 
+U.S.C. § 3582(c)(1)(A). Congress placed only two limits on what can count as an 
+"extraordinary and compelling reason": (1) it must be "consistent with" "applicable policy 
+statements" from the U.S. Sentencing Commission, 
+id
+.; and (2) "[r]ehabilitation of the 
+defendant alone shall not be considered an extra- ordinary and compelling reason," 28 
+U.S.C. § 994(t).
+Sections 401 and 403 of the First Step Act of 2018 reduced penalties for certain 
+drug and firearm offenses going forward. Because of these changes, individuals 
+sentenced today for these offenses often face mandatory minimum terms of 
+imprisonment decades shorter than they would have received before the First Step Act.
+The question presented is:
+Whether, as four circuits permit but six others prohibit, a district court may 
+consider disparities created by the First Step Act's prospective changes in sentencing 
+law when deciding if "extraordinary and compelling reasons" warrant a sentence 
+reduction under 18 U.S.C. § 3582(c)(1)(A)(i).
+LOWER COURT CASE NUMBER: 23-1904</description>
+      			<enclosure url="https://archive.org/download/scotus_24-820_20251112/24-820_full.mp3" length="7781" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-820</guid>
+      			<pubDate>Wed, 12 Nov 2025 20:30:55 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-820</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Fernandez v. United States</title>
@@ -55,7 +91,7 @@ information a court may consider when determining whether there exist extraordin
 and compelling reasons warranting a sentence reduction under 18 U.S.C. § 3582(c)(1)
 (A).
 LOWER COURT CASE NUMBER: 22-3122</description>
-      			<enclosure url="https://archive.org/download/scotus_24-556_20251112/24-556_full.mp3" length="7784" type="audio/mpeg"></enclosure>
+      			<enclosure length="7784" type="audio/mpeg" url="https://archive.org/download/scotus_24-556_20251112/24-556_full.mp3"></enclosure>
       			<guid ispermalink="False">24-556</guid>
       			<pubDate>Wed, 12 Nov 2025 19:30:57 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-556</link>
