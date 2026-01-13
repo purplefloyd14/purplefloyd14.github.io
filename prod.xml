@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -17,6 +17,49 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>West Virginia v. B. P. J.</title>
+      			<description>West Virginia v. B. P. J. | 01/13/26 | Docket #: 24-43
+
+24-43 WEST VIRGINIA V. B.P.J.
+DECISION BELOW: 98 F.4th 542
+CERT. GRANTED 7/3/2025
+QUESTION PRESENTED:
+Like everywhere else, West Virginia schools offer separate sports teams for boys 
+and girls. The West Virginia Legislature concluded that biological boys should compete 
+on boys' and co-ed teams but not girls' teams. This separation made sense, the 
+Legislature found, because of the "inherent physical differences between biological 
+males and biological females."
+A parent sued on behalf of her child, B.P.J., arguing that the State must allow 
+biological boys who identify as girls to compete on girls' teams. After extensive 
+discovery, the district court disagreed, entering summary judgment for the State on 
+claims under the Equal Protection Clause and Title IX. Yet a divided Fourth Circuit panel 
+granted an injunction pending appeal. B.P.J. then beat and displaced hundreds of girls 
+in track and field.
+Ultimately, the same divided panel ruled in B.P.J.'s favor on the Title IX claim and 
+vacated the district court's judgment for the defendants on the equal-protection claim. 
+Judge Agee dissented, criticizing the majority for "inappropriately expand[ing] the scope 
+of the Equal Protection Clause and upend[ing] the essence of Title IX." App.44a. He 
+hoped this Court would "take the opportunity with all deliberate speed to resolve these 
+questions of national importance." App.74a
+The questions presented are:
+1.
+      
+Whether Title IX prevents a state from consistently designating girls' and boys' 
+sports teams based on biological sex determined at birth.
+2.
+      
+Whether the Equal Protection Clause prevents a state from offering separate boys' 
+and girls' sports teams based on biological sex determined at birth.
+LOWER COURT CASE NUMBER: 23-1078, 23-1130</description>
+      			<enclosure url="https://archive.org/download/scotus_24-43_20260113/24-43_full.mp3" length="7793" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-43</guid>
+      			<pubDate>Tue, 13 Jan 2026 21:30:57 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-43</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Little v. Hecox</title>
@@ -54,7 +97,7 @@ Whether laws that seek to protect women's and girls' sports by limiting
 participation to women and girls based on sex violate the Equal Protection Clause of the 
 Fourteenth Amendment.
 LOWER COURT CASE NUMBER: 20-35813, 20-35815</description>
-      			<enclosure url="https://archive.org/download/scotus_24-38_20260113/24-38_full.mp3" length="7783" type="audio/mpeg"></enclosure>
+      			<enclosure length="7783" type="audio/mpeg" url="https://archive.org/download/scotus_24-38_20260113/24-38_full.mp3"></enclosure>
       			<guid ispermalink="False">24-38</guid>
       			<pubDate>Tue, 13 Jan 2026 20:30:56 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-38</link>
