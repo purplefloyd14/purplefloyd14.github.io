@@ -3,7 +3,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   	<channel>
     		<title>The Supreme Court: Oral Arguments</title>
-    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															<a href="https://www.patreon.com/purplefloyd">Patreon</a>
+    		<description>A public good: every Supreme Court Oral Argument since 2010. Making the Highest Court more accessible for a modern audience. The DC Bar blog's piece about this podcast can be found here: https://www.tinyurl.com/scotuspod. If you'd like to support the law student who created this project instead of studying you can do so here: https://www.tinyurl.com/scotusguy. Thanks for listening! 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					<a href="https://www.patreon.com/purplefloyd">Patreon</a>
     		</description>
     		<itunes:image href="https://purplefloyd14.github.io/cover_image2.jpg"></itunes:image>
     		<language>en-us</language>
@@ -17,6 +17,87 @@
     		</itunes:owner>
     		<itunes:type>episodic</itunes:type>
     		<copyright>Unprotected Under 17 U.S. Code § 105</copyright>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Monsanto Co. v. Durnell</title>
+      			<description>Monsanto Co. v. Durnell | 04/27/26 | Docket #: 24-1068
+
+24-1068 MONSANTO CO. V. DURNELL
+DECISION BELOW: 707 S.W.3d 828
+GRANTED LIMITED TO THE FOLLOWING QUESTION:
+WHETHER THE FEDERAL INSECTICIDE, FUNGICIDE, AND RODENTICIDE ACT PREEMPTS A LABEL-
+BASED FAILURE-TO-WARN CLAIM WHERE EPA HAS NOT REQUIRED THE WARNING.
+CERT. GRANTED 1/16/2026
+QUESTION PRESENTED:
+The Federal Insecticide, Fungicide, and Rodenticide Act ("FIFRA'') creates a 
+comprehensive regulatory scheme governing the use, sale, and labeling of pesticides. The Act 
+preempts any state "requirement[] for labeling or packaging in addition to or different from 
+those required under" FIFRA.
+  
+7 U.S.C. §136v(b). For decades, EPA has exercised its authority 
+under FIFRA to find that Monsanto's Roundup product line and its active ingredient, 
+glyphosate, do not cause cancer in humans. Consistent with that understanding, EPA has 
+repeatedly approved Roundup's label without a cancer warning. FIFRA prohibits Monsanto 
+from making any substantive change to an EPA-approved label unless it first obtains EPA's 
+permission.
+Respondent is one of more than 100,000 plaintiffs across the country that nonetheless 
+seek to hold Monsanto liable for not warning users that glyphosate, the active ingredient in 
+Roundup, causes cancer. The federal courts of appeals and state appellate courts are divided 
+over whether FIFRA preempts such claims. The Third Circuit has held that it does. In the 
+decision below, the Missouri Court of Appeals joined the Ninth and Eleventh Circuits and state 
+appellate courts in California and Oregon in holding that it does not.
+The question presented is:
+Whether FIFRA preempts a state-law failure-to- warn claim where EPA has repeatedly 
+concluded that the warning is not required and the warning cannot be added to a product 
+without EPA approval.
+LOWER COURT CASE NUMBER: ED112410</description>
+      			<enclosure url="https://archive.org/download/scotus_24-1068_20260427/24-1068_full.mp3" length="7788" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">24-1068</guid>
+      			<pubDate>Mon, 27 Apr 2026 22:34:35 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/24-1068</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
+    		<item>
+      			<itunes:episodetype>full</itunes:episodetype>
+      			<title>Chatrie v. United States</title>
+      			<description>Chatrie v. United States | 04/27/26 | Docket #: 25-112
+
+25-112 CHATRIE V. UNITED STATES
+DECISION BELOW: 136 F.4th 100
+LIMITED TO QUESTION 1 PRESENTED BY THE PETITION.
+CERT. GRANTED 1/16/2026
+QUESTION PRESENTED:
+This case concerns the constitutionality of geofence warrants. For cell phone users to 
+use certain services, their cell phones must continuously transmit their exact locations to their 
+service providers. A geofence warrant allows law enforcement to obtain, from the service 
+provider, the identities of users who were in the vicinity of a particular location at a particular 
+time.
+In this case, law enforcement obtained, and served on Google, a geofence warrant 
+seeking anonymized location data for every device within 150 meters of the location of a bank 
+robbery within one hour of the robbery. After Google returned an initial list, law enforcement 
+sought - without seeking an additional warrant - information about the movements of certain 
+devices for a longer, two-hour period, and Google complied with that request as well. Then - 
+again without seeking an additional warrant-law enforcement requested de-anonymized 
+subscriber information for three devices. One of those devices belonged to petitioner Okello 
+Chatrie. Based on the evidence derived from the geofence warrant, petitioner was convicted of 
+armed robbery.
+The questions presented are:
+1.
+      
+Whether the execution of the geofence warrant violated the Fourth Amendment.
+2.
+      
+Whether the exclusionary rule should apply to the evidence derived from the geofence 
+warrant.
+LOWER COURT CASE NUMBER: 22-4489</description>
+      			<enclosure url="https://archive.org/download/scotus_25-112_20260427/25-112_full.mp3" length="20" type="audio/mpeg"></enclosure>
+      			<guid ispermalink="False">25-112</guid>
+      			<pubDate>Mon, 27 Apr 2026 22:30:59 -0000</pubDate>
+      			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/25-112</link>
+      			<itunes:explicit>false</itunes:explicit>
+      			<itunes:season>2025</itunes:season>
+    		</item>
     		<item>
       			<itunes:episodetype>full</itunes:episodetype>
       			<title>Blanche, Acting Atty Gen. v. Lau</title>
@@ -48,7 +129,7 @@ was subsequently paroled into the United States, the government must prove that 
 clear and convincing evidence of the offense at the time of the LPR's last reentry into the 
 United States.
 LOWER COURT CASE NUMBER: 21-6623</description>
-      			<enclosure url="https://archive.org/download/scotus_25-429_20260422/25-429_full.mp3" length="7794" type="audio/mpeg"></enclosure>
+      			<enclosure length="7794" type="audio/mpeg" url="https://archive.org/download/scotus_25-429_20260422/25-429_full.mp3"></enclosure>
       			<guid ispermalink="False">25-429</guid>
       			<pubDate>Thu, 23 Apr 2026 00:31:11 -0000</pubDate>
       			<link>https://www.supremecourt.gov/oral_arguments/audio/2025/25-429</link>
